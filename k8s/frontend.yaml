@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: <DOCKERHUB_USERNAME>/devblog-frontend:latest
+          image: nikhilkonduru06/devblog-frontend:latest
           ports:
             - containerPort: 80
           resources:

@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<YOUR_GITHUB_USERNAME>/devblog.git
+    repoURL: https://github.com/NikhilKonduru06/devblog.git
     targetRevision: main
     path: k8s
 

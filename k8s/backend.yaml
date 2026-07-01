@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: <DOCKERHUB_USERNAME>/devblog-backend:latest
+          image: nikhilkonduru06/devblog-backend:latest
           ports:
             - containerPort: 5000
           env:
