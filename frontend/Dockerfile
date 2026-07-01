@@ -1,4 +1,5 @@
 # Build stage
+# Build stage - v2
 FROM node:20-alpine AS build
 WORKDIR /app
 ARG REACT_APP_API_URL=/api
